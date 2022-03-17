@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Presensi BLE Beacon UAJY.API", "Presensi BLE Beacon UAJY.API\Presensi BLE Beacon UAJY.API.csproj", "{6E73E679-B978-45FD-A418-3BD4CC56B09A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E73E679-B978-45FD-A418-3BD4CC56B09A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E73E679-B978-45FD-A418-3BD4CC56B09A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E73E679-B978-45FD-A418-3BD4CC56B09A}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{6E73E679-B978-45FD-A418-3BD4CC56B09A}.Debug|ARM.Build.0 = Debug|Any CPU
+		{6E73E679-B978-45FD-A418-3BD4CC56B09A}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{6E73E679-B978-45FD-A418-3BD4CC56B09A}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{6E73E679-B978-45FD-A418-3BD4CC56B09A}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{6E73E679-B978-45FD-A418-3BD4CC56B09A}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{6E73E679-B978-45FD-A418-3BD4CC56B09A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6E73E679-B978-45FD-A418-3BD4CC56B09A}.Debug|x64.Build.0 = Debug|Any CPU
+		{6E73E679-B978-45FD-A418-3BD4CC56B09A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6E73E679-B978-45FD-A418-3BD4CC56B09A}.Debug|x86.Build.0 = Debug|Any CPU
+		{6E73E679-B978-45FD-A418-3BD4CC56B09A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E73E679-B978-45FD-A418-3BD4CC56B09A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E73E679-B978-45FD-A418-3BD4CC56B09A}.Release|ARM.ActiveCfg = Release|Any CPU
+		{6E73E679-B978-45FD-A418-3BD4CC56B09A}.Release|ARM.Build.0 = Release|Any CPU
+		{6E73E679-B978-45FD-A418-3BD4CC56B09A}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{6E73E679-B978-45FD-A418-3BD4CC56B09A}.Release|iPhone.Build.0 = Release|Any CPU
+		{6E73E679-B978-45FD-A418-3BD4CC56B09A}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{6E73E679-B978-45FD-A418-3BD4CC56B09A}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{6E73E679-B978-45FD-A418-3BD4CC56B09A}.Release|x64.ActiveCfg = Release|Any CPU
+		{6E73E679-B978-45FD-A418-3BD4CC56B09A}.Release|x64.Build.0 = Release|Any CPU
+		{6E73E679-B978-45FD-A418-3BD4CC56B09A}.Release|x86.ActiveCfg = Release|Any CPU
+		{6E73E679-B978-45FD-A418-3BD4CC56B09A}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D3BE93C-7F48-4218-8B67-5970696412E2}
+	EndGlobalSection
+EndGlobal
